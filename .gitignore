@@ -3,3 +3,5 @@
 *.net
 
 !one.py
+
+[aeious]*.txt
